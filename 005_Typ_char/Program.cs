@@ -13,7 +13,7 @@ namespace typ_char
             char pismeno2 = (char)(pismeno + 1); 
             // vytvoří větší typ (integer), proto na začátku "přetypováváme" zpět na char
 
-            //char pismeno2 = (char)(pismeno + 'b');
+            // char pismeno2 = (char)(pismeno + 'b');
             Console.WriteLine("Další písmenko je: " + pismeno2);
         }
     }
