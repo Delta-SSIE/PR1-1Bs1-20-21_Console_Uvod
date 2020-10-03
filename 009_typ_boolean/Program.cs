@@ -6,10 +6,10 @@ namespace _009_typ_boolean
     {
         static void Main(string[] args)
         {
-            bool jeHezky = true;
+            bool jeOsklive = true;
             bool chciJitVen = false;
 
-            if (jeHezky)
+            if ( !(jeOsklive && !chciJitVen) )
             {
                 Console.WriteLine("Jde se ven");
             } 
