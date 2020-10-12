@@ -27,7 +27,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-uvod_do_konzole", "01-uv
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-podminky", "02-podminky", "{09A4A9D0-CABB-43EC-80DA-13431B74F778}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005b_retezce", "005b_retezce\005b_retezce.csproj", "{F120B87D-BC8B-4453-AB2D-E2DEEECC3F87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005b_retezce", "005b_retezce\005b_retezce.csproj", "{F120B87D-BC8B-4453-AB2D-E2DEEECC3F87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011-nahodna-cisla", "011-nahodna-cisla\011-nahodna-cisla.csproj", "{47BEBA58-0CED-458B-971B-8DD6490E1EC9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -79,6 +81,10 @@ Global
 		{F120B87D-BC8B-4453-AB2D-E2DEEECC3F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F120B87D-BC8B-4453-AB2D-E2DEEECC3F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F120B87D-BC8B-4453-AB2D-E2DEEECC3F87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47BEBA58-0CED-458B-971B-8DD6490E1EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47BEBA58-0CED-458B-971B-8DD6490E1EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47BEBA58-0CED-458B-971B-8DD6490E1EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47BEBA58-0CED-458B-971B-8DD6490E1EC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -95,6 +101,7 @@ Global
 		{96D0F97B-23B2-4844-B302-60341509770E} = {09A4A9D0-CABB-43EC-80DA-13431B74F778}
 		{B201EF7E-51DE-47B9-8C76-F62BAFAB0217} = {09A4A9D0-CABB-43EC-80DA-13431B74F778}
 		{F120B87D-BC8B-4453-AB2D-E2DEEECC3F87} = {CC893FFD-4C0D-4A51-8B35-EDEA5C6D239D}
+		{47BEBA58-0CED-458B-971B-8DD6490E1EC9} = {09A4A9D0-CABB-43EC-80DA-13431B74F778}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {95A803EA-CF3F-47FE-8F60-99F3B955FFD7}
