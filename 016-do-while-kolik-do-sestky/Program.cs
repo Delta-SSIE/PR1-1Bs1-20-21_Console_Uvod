@@ -1,27 +1,26 @@
 ﻿using System;
 
-namespace _014_kolik_hodu_do_sestky
+namespace _016_do_while_kolik_do_sestky
 {
     class Program
     {
         static void Main(string[] args)
         {
             // spočítej, kolikrát musíš hodit kostkou, než padne 6
-            int pocitadlo = 1; // nastavím počítadlo
+            int pocitadlo = 0; // nastavím počítadlo
 
             Random generator = new Random(); // vytvořím generátor
-            int hod = generator.Next(1, 7); // hodím si
-            Console.WriteLine(hod); // vypíšu
+            int hod;
 
-            while (hod != 6) // budu opakovat, dokud nepadne 6
+            do
             {
                 pocitadlo++; // zvýším počítadlo
                 hod = generator.Next(1, 7); // hodím si
                 Console.WriteLine(hod); //vypíšu
             }
+            while (hod != 6); // budu opakovat, dokud nepadne 6
 
             Console.WriteLine("Počet hodů byl {0}", pocitadlo);
-
         }
     }
 }
