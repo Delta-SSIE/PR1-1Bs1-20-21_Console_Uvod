@@ -71,7 +71,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "027-For-Maskovani-2", "027-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "028-for-demaskovani", "028-for-demaskovani\028-for-demaskovani.csproj", "{7E939166-5F9B-423C-BDD5-E78D976DAC3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "029-For-Caesarova-sifra", "029-For-Caesarova-sifra\029-For-Caesarova-sifra.csproj", "{A27A6903-3B54-4397-A15F-836684A1C5E3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "029-For-Caesarova-sifra", "029-For-Caesarova-sifra\029-For-Caesarova-sifra.csproj", "{A27A6903-3B54-4397-A15F-836684A1C5E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "030-For-Vnorene-cykly-Vsechny-kombinace", "030-For-Vnorene-cykly-Vsechny-kombinace\030-For-Vnorene-cykly-Vsechny-kombinace.csproj", "{AA979761-D560-417F-8540-CDEC95396641}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "031-For-Dominove-kostky", "031-For-Dominova-kostky\031-For-Dominove-kostky.csproj", "{044012C3-AFBD-4961-93F3-6551AA4BFC9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "032-For-trojuhelnik-typ-b", "032-For-trojuhelnik-typ-b\032-For-trojuhelnik-typ-b.csproj", "{15F3CBFC-758D-4659-84E0-0BEA838AB963}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -203,6 +209,18 @@ Global
 		{A27A6903-3B54-4397-A15F-836684A1C5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A27A6903-3B54-4397-A15F-836684A1C5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A27A6903-3B54-4397-A15F-836684A1C5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA979761-D560-417F-8540-CDEC95396641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA979761-D560-417F-8540-CDEC95396641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA979761-D560-417F-8540-CDEC95396641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA979761-D560-417F-8540-CDEC95396641}.Release|Any CPU.Build.0 = Release|Any CPU
+		{044012C3-AFBD-4961-93F3-6551AA4BFC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044012C3-AFBD-4961-93F3-6551AA4BFC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044012C3-AFBD-4961-93F3-6551AA4BFC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044012C3-AFBD-4961-93F3-6551AA4BFC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F3CBFC-758D-4659-84E0-0BEA838AB963}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F3CBFC-758D-4659-84E0-0BEA838AB963}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F3CBFC-758D-4659-84E0-0BEA838AB963}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F3CBFC-758D-4659-84E0-0BEA838AB963}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -238,6 +256,9 @@ Global
 		{727AB9EC-A523-4A3B-ABE2-7D89ED67A088} = {A1C17753-5BBA-48E7-AF06-DC51F2574AEC}
 		{7E939166-5F9B-423C-BDD5-E78D976DAC3A} = {A1C17753-5BBA-48E7-AF06-DC51F2574AEC}
 		{A27A6903-3B54-4397-A15F-836684A1C5E3} = {A1C17753-5BBA-48E7-AF06-DC51F2574AEC}
+		{AA979761-D560-417F-8540-CDEC95396641} = {A1C17753-5BBA-48E7-AF06-DC51F2574AEC}
+		{044012C3-AFBD-4961-93F3-6551AA4BFC9F} = {A1C17753-5BBA-48E7-AF06-DC51F2574AEC}
+		{15F3CBFC-758D-4659-84E0-0BEA838AB963} = {A1C17753-5BBA-48E7-AF06-DC51F2574AEC}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {95A803EA-CF3F-47FE-8F60-99F3B955FFD7}
