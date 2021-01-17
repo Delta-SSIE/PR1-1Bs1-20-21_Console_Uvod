@@ -93,17 +93,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "038-For-Faktorial", "038-Fo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05-pole", "05-pole", "{706E3837-EC72-476C-A496-AAF9035B0116}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "039-Vanocni-vyzva", "039-Vanocni-vyzva\039-Vanocni-vyzva.csproj", "{64C8212F-B76C-4D7B-987D-BC06026B05DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "039-Vanocni-vyzva", "039-Vanocni-vyzva\039-Vanocni-vyzva.csproj", "{64C8212F-B76C-4D7B-987D-BC06026B05DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "040-Vanocni-vyzva-reseni", "040-Vanocni-vyzva-reseni\040-Vanocni-vyzva-reseni.csproj", "{3DEE081A-7FF6-4408-A0A8-B526ABAFA94B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "040-Vanocni-vyzva-reseni", "040-Vanocni-vyzva-reseni\040-Vanocni-vyzva-reseni.csproj", "{3DEE081A-7FF6-4408-A0A8-B526ABAFA94B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "041-Pole-Ukazky", "041-Pole-ukazky\041-Pole-Ukazky.csproj", "{A256CA13-417C-4834-BA5D-9BD3F1AA9EFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "041-Pole-Ukazky", "041-Pole-ukazky\041-Pole-Ukazky.csproj", "{A256CA13-417C-4834-BA5D-9BD3F1AA9EFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "042-Pole-Naplneni-a-vypis", "042-Pole-Naplneni-a-vypis\042-Pole-Naplneni-a-vypis.csproj", "{443D45BC-2D97-444B-8523-2C8EFBDA7BE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "042-Pole-Naplneni-a-vypis", "042-Pole-Naplneni-a-vypis\042-Pole-Naplneni-a-vypis.csproj", "{443D45BC-2D97-444B-8523-2C8EFBDA7BE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "043-Pole-Pocet-nulovych-prvku", "043-Pole-Pocet-nulovych-prvku\043-Pole-Pocet-nulovych-prvku.csproj", "{B25FBB29-9068-422D-9828-E88E3E8800E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "043-Pole-Pocet-nulovych-prvku", "043-Pole-Pocet-nulovych-prvku\043-Pole-Pocet-nulovych-prvku.csproj", "{B25FBB29-9068-422D-9828-E88E3E8800E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "043-Pole-Soucet-prvku-na-sude-pozici", "043-Pole-Soucet-prvku-na-sude-pozici\043-Pole-Soucet-prvku-na-sude-pozici.csproj", "{F6EE50E9-3EC9-4255-B79A-9F97A24D1073}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "044-Pole-Soucet-prvku-na-sude-pozici", "043-Pole-Soucet-prvku-na-sude-pozici\044-Pole-Soucet-prvku-na-sude-pozici.csproj", "{F6EE50E9-3EC9-4255-B79A-9F97A24D1073}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "045-Pole-Split-a-Join", "045-Split-a-Join\045-Pole-Split-a-Join.csproj", "{0C1768E7-3127-46C1-9350-E4D805874B35}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "046-Pole-Paralelni-pole", "046-Pole-Paralelni-pole\046-Pole-Paralelni-pole.csproj", "{CD530F8A-1D1D-4872-B174-2326C6C52F18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -295,6 +299,14 @@ Global
 		{F6EE50E9-3EC9-4255-B79A-9F97A24D1073}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6EE50E9-3EC9-4255-B79A-9F97A24D1073}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6EE50E9-3EC9-4255-B79A-9F97A24D1073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C1768E7-3127-46C1-9350-E4D805874B35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C1768E7-3127-46C1-9350-E4D805874B35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C1768E7-3127-46C1-9350-E4D805874B35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C1768E7-3127-46C1-9350-E4D805874B35}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD530F8A-1D1D-4872-B174-2326C6C52F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD530F8A-1D1D-4872-B174-2326C6C52F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD530F8A-1D1D-4872-B174-2326C6C52F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD530F8A-1D1D-4872-B174-2326C6C52F18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -345,6 +357,8 @@ Global
 		{443D45BC-2D97-444B-8523-2C8EFBDA7BE7} = {706E3837-EC72-476C-A496-AAF9035B0116}
 		{B25FBB29-9068-422D-9828-E88E3E8800E9} = {706E3837-EC72-476C-A496-AAF9035B0116}
 		{F6EE50E9-3EC9-4255-B79A-9F97A24D1073} = {706E3837-EC72-476C-A496-AAF9035B0116}
+		{0C1768E7-3127-46C1-9350-E4D805874B35} = {706E3837-EC72-476C-A496-AAF9035B0116}
+		{CD530F8A-1D1D-4872-B174-2326C6C52F18} = {706E3837-EC72-476C-A496-AAF9035B0116}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {95A803EA-CF3F-47FE-8F60-99F3B955FFD7}
