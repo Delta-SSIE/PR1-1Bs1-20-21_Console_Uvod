@@ -24,8 +24,9 @@ namespace _027_For_Maskovani_2
 
             string zamaskovano = ""; //do tohoto retezce budu skladat zamaskovany text
 
-            int krok = 4; //po kolika pismenech se bude preskakovat
-            int offset = 3; //kolik pismen se predhodi pred prvni zamaskovana pismeno
+            int krok = 7; //po kolika pismenech se bude preskakovat
+            int offset = 4; //kolik pismen se predhodi pred prvni zamaskovana pismeno
+
 
             for (int i = 0; i < text.Length; i++) //posouvej pozici i pres cely text
             {
