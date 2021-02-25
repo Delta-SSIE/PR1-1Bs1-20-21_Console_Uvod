@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _50_ukazka_JeKladne
+namespace _050_ukazka_JeKladne
 {
     class Program
     {

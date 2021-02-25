@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _52_ukazka_Jsou_vsechna_licha
+namespace _052_ukazka_Jsou_vsechna_licha
 {
     class Program
     {

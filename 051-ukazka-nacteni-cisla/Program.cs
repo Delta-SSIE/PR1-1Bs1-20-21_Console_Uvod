@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace _51_ukazka_nacteni_cisla
+namespace _051_ukazka_nacteni_cisla
 {
     class Program
     {
