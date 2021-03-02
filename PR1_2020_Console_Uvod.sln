@@ -135,13 +135,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xyz-minesweeper", "xyz-mine
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xyz-navalbattle", "xyz-navalbattle\xyz-navalbattle.csproj", "{301AF1FF-5E3F-4EF0-AD48-A06B6286C267}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "056-Minesweeper", "056-Minesweeper\056-Minesweeper.csproj", "{21E1B5FA-8E37-4BA1-AADF-9F6C122B7F93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "056-Minesweeper", "056-Minesweeper\056-Minesweeper.csproj", "{21E1B5FA-8E37-4BA1-AADF-9F6C122B7F93}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "050-ukazka-JeKladne", "050-ukazka-JeKladne\050-ukazka-JeKladne.csproj", "{047827C3-B6EE-46A4-820B-7B895E65C766}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "051-ukazka-nacteni-cisla", "051-ukazka-nacteni-cisla\051-ukazka-nacteni-cisla.csproj", "{72B0CB11-E69B-4C5E-8416-91CC448D48CB}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "052-ukazka-Jsou-vsechna-licha", "052-ukazka-Jsou-vsechna-licha\052-ukazka-Jsou-vsechna-licha.csproj", "{295ACD64-73FC-4D2F-AE42-EB7D48FDFC70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "057-Game-of-life", "057-Game-of-life\057-Game-of-life.csproj", "{BCFC10BA-3B77-48F5-BD4A-75AF300524C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -393,6 +395,10 @@ Global
 		{295ACD64-73FC-4D2F-AE42-EB7D48FDFC70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{295ACD64-73FC-4D2F-AE42-EB7D48FDFC70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{295ACD64-73FC-4D2F-AE42-EB7D48FDFC70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCFC10BA-3B77-48F5-BD4A-75AF300524C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFC10BA-3B77-48F5-BD4A-75AF300524C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFC10BA-3B77-48F5-BD4A-75AF300524C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFC10BA-3B77-48F5-BD4A-75AF300524C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -458,6 +464,7 @@ Global
 		{047827C3-B6EE-46A4-820B-7B895E65C766} = {D7BD359B-FCD7-47A7-B9B4-0C265971D78C}
 		{72B0CB11-E69B-4C5E-8416-91CC448D48CB} = {D7BD359B-FCD7-47A7-B9B4-0C265971D78C}
 		{295ACD64-73FC-4D2F-AE42-EB7D48FDFC70} = {D7BD359B-FCD7-47A7-B9B4-0C265971D78C}
+		{BCFC10BA-3B77-48F5-BD4A-75AF300524C6} = {4912F082-50EC-4D4A-993E-E60E9A4698F5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {95A803EA-CF3F-47FE-8F60-99F3B955FFD7}
