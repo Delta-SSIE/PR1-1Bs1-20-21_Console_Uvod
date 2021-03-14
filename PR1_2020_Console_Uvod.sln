@@ -151,13 +151,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xyz-rekurze-prochazeni", "x
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "09-Rekurze", "09-Rekurze", "{370BA92B-EE3F-4172-8748-52DA1D264A46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "058-Rekurze-Faktorial", "058-Rekurze-Faktorial\058-Rekurze-Faktorial.csproj", "{C6BF081E-EB61-4794-876B-DF82E0ACB5E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "058-Rekurze-Faktorial", "058-Rekurze-Faktorial\058-Rekurze-Faktorial.csproj", "{C6BF081E-EB61-4794-876B-DF82E0ACB5E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "059-Rekurze-Soucet-pole", "059-Rekurze-Soucet-pole\059-Rekurze-Soucet-pole.csproj", "{AB59EE98-19AB-4B5E-A19D-AAFE818B1D20}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "059-Rekurze-Soucet-pole", "059-Rekurze-Soucet-pole\059-Rekurze-Soucet-pole.csproj", "{AB59EE98-19AB-4B5E-A19D-AAFE818B1D20}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "060-Rekurze-Vsechna-suda", "060-Rekurze-Vsechna-suda\060-Rekurze-Vsechna-suda.csproj", "{C6C54F8F-0F13-4FAC-84E3-3AADB852DC94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "060-Rekurze-Vsechna-suda", "060-Rekurze-Vsechna-suda\060-Rekurze-Vsechna-suda.csproj", "{C6C54F8F-0F13-4FAC-84E3-3AADB852DC94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "061-Rekurze-vypis-adresare", "061-Rekurze-vypis-adresare\061-Rekurze-vypis-adresare.csproj", "{8B7181EC-0F95-4688-A44E-25C8BB126E2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "061-Rekurze-Vypis-adresare", "061-Rekurze-vypis-adresare\061-Rekurze-Vypis-adresare.csproj", "{8B7181EC-0F95-4688-A44E-25C8BB126E2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "062-Rekurze-Palindrom", "062-Rekurze-palindrom\062-Rekurze-Palindrom.csproj", "{6229E58E-FDB6-48E3-8E49-71199C055291}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xyz-Damy", "xyz-Damy\xyz-Damy.csproj", "{79CD8BEE-01EF-4673-9A7C-1C757599C249}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "063-Rekurze-Umisti-Damy", "063-Rekurze-Umisti-Damy\063-Rekurze-Umisti-Damy.csproj", "{7B80912E-99BA-496D-8B76-115EE375E821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "064-Fibonacci", "064-Fibonacci\064-Fibonacci.csproj", "{ADA02AC5-F0E7-492A-A726-15C81E999D9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -437,6 +445,22 @@ Global
 		{8B7181EC-0F95-4688-A44E-25C8BB126E2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8B7181EC-0F95-4688-A44E-25C8BB126E2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8B7181EC-0F95-4688-A44E-25C8BB126E2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6229E58E-FDB6-48E3-8E49-71199C055291}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6229E58E-FDB6-48E3-8E49-71199C055291}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6229E58E-FDB6-48E3-8E49-71199C055291}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6229E58E-FDB6-48E3-8E49-71199C055291}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79CD8BEE-01EF-4673-9A7C-1C757599C249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79CD8BEE-01EF-4673-9A7C-1C757599C249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79CD8BEE-01EF-4673-9A7C-1C757599C249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79CD8BEE-01EF-4673-9A7C-1C757599C249}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B80912E-99BA-496D-8B76-115EE375E821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B80912E-99BA-496D-8B76-115EE375E821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B80912E-99BA-496D-8B76-115EE375E821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B80912E-99BA-496D-8B76-115EE375E821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADA02AC5-F0E7-492A-A726-15C81E999D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA02AC5-F0E7-492A-A726-15C81E999D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA02AC5-F0E7-492A-A726-15C81E999D9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA02AC5-F0E7-492A-A726-15C81E999D9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -509,6 +533,10 @@ Global
 		{AB59EE98-19AB-4B5E-A19D-AAFE818B1D20} = {370BA92B-EE3F-4172-8748-52DA1D264A46}
 		{C6C54F8F-0F13-4FAC-84E3-3AADB852DC94} = {370BA92B-EE3F-4172-8748-52DA1D264A46}
 		{8B7181EC-0F95-4688-A44E-25C8BB126E2D} = {370BA92B-EE3F-4172-8748-52DA1D264A46}
+		{6229E58E-FDB6-48E3-8E49-71199C055291} = {370BA92B-EE3F-4172-8748-52DA1D264A46}
+		{79CD8BEE-01EF-4673-9A7C-1C757599C249} = {44A58E33-D221-425D-BBD8-A063586526AC}
+		{7B80912E-99BA-496D-8B76-115EE375E821} = {370BA92B-EE3F-4172-8748-52DA1D264A46}
+		{ADA02AC5-F0E7-492A-A726-15C81E999D9B} = {370BA92B-EE3F-4172-8748-52DA1D264A46}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {95A803EA-CF3F-47FE-8F60-99F3B955FFD7}
