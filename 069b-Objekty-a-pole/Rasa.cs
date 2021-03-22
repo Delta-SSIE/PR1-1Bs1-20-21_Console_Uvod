@@ -1,0 +1,1 @@
+﻿enum Rasa { Pes, Kočka, Zajíc, Prase };
