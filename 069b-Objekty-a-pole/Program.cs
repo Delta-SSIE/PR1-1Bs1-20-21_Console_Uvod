@@ -6,10 +6,12 @@ namespace _069b_Objekty_a_pole
     {
         static void Main(string[] args)
         {
-            //Postava bobik = new Postava();
-            //bobik.Jmeno = "Bobík",
-            //bobik.Rasa = Rasa.Prase,
-            //bobik.OblibenaJidla = new string[] { "Tlačenka", "Guláš", "Vajíčka" }
+            //Postava bobik = new Postava
+            //{
+            //    Jmeno = "Bobík",
+            //    Rasa = Rasa.Prase,
+            //    OblibenaJidla = new string[] { "Tlačenka", "Guláš", "Vajíčka" }
+            //};
 
             //Console.WriteLine(bobik.OblibenaJidla[0]);
 
