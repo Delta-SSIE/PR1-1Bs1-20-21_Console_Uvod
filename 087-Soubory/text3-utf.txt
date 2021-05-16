@@ -1,0 +1,6 @@
+Toto je text přečtený ze třetího souboru.
+
+
+další řádek
+ještě řádek
+a ještě jeden řádek
