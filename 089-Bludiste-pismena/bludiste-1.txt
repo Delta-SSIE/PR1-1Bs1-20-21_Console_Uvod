@@ -1,0 +1,37 @@
+﻿A
+Ž
+
+A: E, M
+B: E, Š, T
+C: E, Ň, U
+Č: I, Q, W
+D: G, K, Z
+Ď: M, R, X
+E: A, B, C
+Ě: L, V, Y
+F: F, H, S
+G: D, K, U
+H: F, Ň, S
+I: Č, N, W
+J: Š, T, Ť
+K: D, G, Z
+L: Ě, V, Y
+X: Ď, O, R
+Y: Ě, L, Ř
+M: A, Ď, O
+N: I, P, Q
+Ň: C, H, S
+O: M, R, X
+P: N, U, Ž
+Q: Č, N, W
+R: Ď, O, X
+Ř: V, Y, Ž
+S: F, H, Ň
+Š: B, J, Ť
+T: B, J, Ť
+Ť: J, Š, T
+U: C, G, P
+V: Ě, L, Ř
+W: Č, I, Q
+Z: D, K, Ž
+Ž: P, Ř
